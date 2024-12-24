@@ -208,26 +208,3 @@ accuracy_table <- data.frame(
 # Print the table
 print(accuracy_table)
 
-# Opinion ----
-# Provide opinion about using NN on this dataset
-# Using neural networks on this dataset could offer several advantages. 
-# Neural networks are capable of capturing complex patterns in the data and can 
-# potentially outperform traditional linear models or tree-based models in terms
-# of accuracy. However, they also come with some challenges such as requiring 
-# careful tuning of hyperparameters, being computationally expensive to train, 
-# and being more prone to overfitting, especially on smaller datasets. 
-# Therefore, while neural networks may provide high accuracy, it's essential to 
-# consider the trade-offs and the specific characteristics of the dataset before 
-# choosing them as the modeling approach.
-
-
-
-
-
-
-
-
-
-
-
-
