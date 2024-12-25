@@ -1,5 +1,5 @@
 # Load the dataset from URL
-df <- read.csv("https://raw.githubusercontent.com/YanaYerokhina/RPGCharacterClassificationAnalysis/main/RPG.csv", header = TRUE, sep = ",")
+df <- read.csv("https://raw.githubusercontent.com/YanaYerokhina/RPG-Character-Classification-Analysis/main/RPG.csv", header = TRUE, sep = ",")
 
 library(keras)
 library(readr)
